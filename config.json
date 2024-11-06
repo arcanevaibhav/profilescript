@@ -1,0 +1,17 @@
+{
+    "profile_paths": [
+        "/path/to/profile1",
+        "/path/to/profile2",
+        "/path/to/profile3"
+    ],
+    "extension_ids": {
+        "dawn": "extension_id_for_dawn",
+        "gradient": "extension_id_for_gradient",
+        "grass": "extension_id_for_grass"
+    },
+    "proxies": [
+        "proxy1_ip:port",
+        "proxy2_ip:port",
+        "proxy3_ip:port"
+    ]
+}
