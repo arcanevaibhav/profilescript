@@ -1,4 +1,4 @@
-~ from selenium import webdriver
+from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
 from fake_useragent import UserAgent
@@ -68,4 +68,4 @@ try:
 finally:
     for driver in drivers:
         driver.quit()
-~
+
